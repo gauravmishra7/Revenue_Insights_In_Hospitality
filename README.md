@@ -1,6 +1,6 @@
 # Revenue_Insights_In_Hospitality
 
-Welcome to the hub of innovation, the AtliQ Grands Revenue Insights project repository! Here, I've harnessed the mighty capabilities of Power BI to delve into the realm of data analytics. This initiative empowers AtliQ Grands, enabling them to navigate the business landscape with insightful data, make shrewd decisions, outshine competitors, and cultivate growth in pivotal domains like market share and revenue. THE CHALLENGE 
+Welcome to the hub of innovation, the AtliQ Grands Revenue Insights project repository! Here, I've harnessed the mighty capabilities of Power BI to delve into the realm of data analytics. This initiative empowers AtliQ Grands, enabling them to navigate the business landscape with insightful data, make shrewd decisions, outshine competitors, and cultivate growth in pivotal domains like market share and revenue. 
 
 ## PROBLEM STATEMENT
 
